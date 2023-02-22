@@ -13,9 +13,13 @@
     border-bottom: 1px solid #ddd;
 }
 
+.tasks__content--done {
+    text-decoration: line-through;
+}
+
 .tasks__button {
     border: none;
-    color: white;
+    color: green;
     width: 25px;
     height: 25px;
     padding: 0;
@@ -33,6 +37,14 @@
     background: rgb(78, 210, 78);
 }
 
-.tasks__content--done {
-    text-decoration: line-through;
+.tasks__button--remove {
+    background: red;
+}
+
+.tasks__button--remove:hover {
+    background: rgb(249, 46, 46);
+}
+
+.tasks__button--remove:active {
+    background: rgb(243, 81, 81);
 }
