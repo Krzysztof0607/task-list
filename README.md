@@ -2,7 +2,7 @@
 
 [See my task-list](https://krzysztof0607.github.io/task-list/)
 
-![Demo](images/demo.gif)
+![Demo](images/demo.gif.gif)
 
 # Description
 
