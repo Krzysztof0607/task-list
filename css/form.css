@@ -21,9 +21,11 @@
     color: white;
     border: none;
 }
+
 .form__button:hover {
     background: rgb(125, 234, 234);
 }
+
 .form__button:active {
     background: rgb(35, 190, 190);
 }
