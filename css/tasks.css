@@ -30,7 +30,7 @@
     background-color: green;
     border: none;
     color: white;
-    transition: 1s;
+    transition: background 0.3s;
 }
 
 .task__button:hover {

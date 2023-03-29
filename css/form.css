@@ -17,9 +17,10 @@
 
 .form__button {
     padding: 10px;
-    background: teal;
+    background-color: teal;
     color: white;
     border: none;
+    transition: background 1s, transform 0.5s;
 }
 
 .form__button:hover {
@@ -28,4 +29,5 @@
 
 .form__button:active {
     background: rgb(35, 190, 190);
+    transform: scale(1.2);
 }

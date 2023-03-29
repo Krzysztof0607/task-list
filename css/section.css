@@ -42,7 +42,7 @@
     color: teal;
     background: transparent;
     padding: 10px;
-    transition: 2s;
+    transition: 1s;
 }
 
 .section__buttons:hover {
